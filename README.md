@@ -1,4 +1,4 @@
-## Hi I'm Shrey 
+## Hi, I'm Shrey 
 
 <!--
 **Z-243/Z-243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
