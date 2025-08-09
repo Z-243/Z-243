@@ -1,16 +1,88 @@
-## Hi, I'm Shrey 
+# 👋 Hey there, I'm **Shrey**  
 
-<!--
-**Z-243/Z-243** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Software Developer** | 🚀 Problem Solver | 🎨 UI/UX Enthusiast  
 
-Here are some ideas to get you started:
+I build **intuitive**, **scalable**, and **user-focused** applications that bridge the gap between design and functionality.  
+Passionate about learning, growing, and collaborating to turn ideas into impactful digital experiences.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack  
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+
+---
+
+## 📌 Featured Projects  
+
+### 🔹 [Subscription Tracker App](#)  
+📊 Manage & analyze subscription spending with **Next.js**, **Tailwind CSS**, and **Firebase**.  
+- Email/password authentication  
+- Real-time analytics: monthly/yearly cost, top category, upcoming bills  
+- CRUD subscription entries
+
+
+
+---
+
+### 🔹 [E-Commerce Store](#)  
+🛍 A modern store powered by **Next.js**, **Tailwind CSS**, and **Dodo Payments**.  
+- Product browsing, cart, and secure checkout  
+- Fully responsive and SEO-optimized  
+
+[Push Cart](https://clear-mode.netlify.app/)
+
+---
+
+### 🔹 [30 Days Writing Challenge](#)  
+✏️ Stay motivated to write daily and track your progress with a simple, engaging interface.  
+
+---
+
+## 📊 GitHub Stats & Activity  
+
+![ABC's GitHub stats](https://github-readme-stats.vercel.app/api?username=abc&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abc&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abc&theme=radical)  
+
+---
+
+## 📫 Let's Connect  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)  
+
+---
+
+> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House  
+
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [shc5747@gmail.com](mailto:shc5747@gmail.com)
+- 🌐 Website: [web-portfi.netlify.app](https://web-portfi.netlify.app/)
+- 💼 LinkedIn: [linkedin.com/in/shrey-c-](https://www.linkedin.com/in/shrey-c-/)
+- 🐙 GitHub: [github.com/Z-243](https://github.com/Z-243)
+
