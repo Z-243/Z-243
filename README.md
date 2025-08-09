@@ -59,14 +59,6 @@ Passionate about learning, growing, and collaborating to turn ideas into impactf
 
 ---
 
-## 📊 GitHub Stats & Activity  
-
-![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z-243&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-243&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Z-243&theme=radical)  
-
----
-
 ## 📬 Let's Contact
 
 - 📧 Email: [shc5747@gmail.com](mailto:shc5747@gmail.com)
