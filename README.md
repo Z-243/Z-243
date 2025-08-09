@@ -39,7 +39,7 @@ Passionate about learning, growing, and collaborating to turn ideas into impactf
 - Real-time analytics: monthly/yearly cost, top category, upcoming bills  
 - CRUD subscription entries
 
-
+[SubKeeper](https://sub-keeper.netlify.app/)
 
 ---
 
@@ -55,31 +55,19 @@ Passionate about learning, growing, and collaborating to turn ideas into impactf
 ### 🔹 [30 Days Writing Challenge](#)  
 ✏️ Stay motivated to write daily and track your progress with a simple, engaging interface.  
 
+[Clear Mode](https://clear-mode.netlify.app/)
+
 ---
 
 ## 📊 GitHub Stats & Activity  
 
-![ABC's GitHub stats](https://github-readme-stats.vercel.app/api?username=abc&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abc&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=abc&theme=radical)  
+![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Z-243&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Z-243&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Z-243&theme=radical)  
 
 ---
 
-## 📫 Let's Connect  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:you@example.com)  
-
----
-
-> _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House  
-
-
----
-
-## 📬 Contact
+## 📬 Let's Contact
 
 - 📧 Email: [shc5747@gmail.com](mailto:shc5747@gmail.com)
 - 🌐 Website: [web-portfi.netlify.app](https://web-portfi.netlify.app/)
