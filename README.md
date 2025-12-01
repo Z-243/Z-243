@@ -33,7 +33,7 @@ Passionate about learning, growing, and collaborating to turn ideas into impactf
 - Product browsing, cart, and secure checkout  
 - Fully responsive and SEO-optimized  
 
-[Push Cart](https://clear-mode.netlify.app/)
+[Push Cart](https://main.d3tey1bstzltb.amplifyapp.com/)
 
 ---
 
